@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# GitHubManager React App
 
 React, React Toolkit, React Toolkit Query, Tailwind CSS
 
